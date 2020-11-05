@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+
+body{
+    color:#666;
+font-family: Rubik, Arial, sans-serif;
+
+}
+
+header{
+    background-color: #1c1637 ;
+    color: white;
+    margin:0;
+    padding: 25px;
+}
+
+#header{
+    text-align: center;
+}
+
+main{
+    text-align:center; 
+    background-color: #eee;
+    margin: 0%;
+    border-top: 15px solid #ad9967
+}
+
+
+
+#listings {
+    list-style-type: none;
+}
+
+footer {
+    background-color: #eee;
+    text-align: center;
+}
+
+p, #intro {
+text-align: center;
+margin: 5%;
+}
